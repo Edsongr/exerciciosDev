@@ -1,0 +1,17 @@
+
+nav{
+    text-align: center;
+}
+
+.code {
+    font-size: .875em;
+    color: #FFF;
+    word-wrap: break-word;
+    background-color: #444141;
+    padding: 10px;
+    width: 100%;
+}
+
+.exemploArray{
+    font-size: 45px;
+}
