@@ -28,7 +28,7 @@ Subindo o servidor local:
 
 Na tela Home terá a opção de clicar em qual exercício deseja avaliar. 
 
-<img src="#" alt="Home">
+<img src="https://github.com/Edsongr/exerciciosDev/blob/main/public/img/home.png?raw=true" alt="Home">
 
 
 
