@@ -31,6 +31,22 @@ Na tela Home terá a opção de clicar em qual exercício deseja avaliar.
 <img src="https://github.com/Edsongr/exerciciosDev/blob/main/public/img/home.png?raw=true" alt="Home">
 
 
+Exercício 1, tela listagem e cadastro
+
+<img src="https://github.com/Edsongr/exerciciosDev/blob/main/public/img/tabelaCriacao.png?raw=true" alt="Lista">
+<img src="https://github.com/Edsongr/exerciciosDev/blob/main/public/img/cadastro.png?raw=true" alt="Create">
+
+
+
+Exercício 2, tratando Arrays, pode ser clicado no link "abrir exemplo" para verificar passo a passo.
+
+<img src="https://github.com/Edsongr/exerciciosDev/blob/main/public/img/abrirExemplo.png?raw=true" alt="Arrays">
+
+
+Exercício 3, consultas DB.
+
+<img src="https://github.com/Edsongr/exerciciosDev/blob/main/public/img/dml.png?raw=true" alt="Arrays">
+
 
 
 ### Created By 
